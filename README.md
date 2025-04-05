@@ -4,7 +4,7 @@ SocialConnect é uma plataforma de rede social onde usuários podem criar perfis
 As principais tecnologias utilizadas nesse projeto são HTML5 e CSS3.
 
 Integrantes:
-@DudaFror 
-@oliveiralimadiogo
-@LucassAquino
-@LucasBonato
+Eduarda (@DudaFror)
+Diogo (@oliveiralimadiogo)
+Lucas Aquino (@LucassAquino)
+Lucas Perez (@LucasBonato)
